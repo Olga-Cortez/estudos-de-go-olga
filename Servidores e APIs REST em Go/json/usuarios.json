@@ -1,0 +1,31 @@
+{
+    "Usuarios": [
+        {
+            "Nome": "Ana",
+            "Idade": 28,
+            "Email": "ana@email.com",
+            "Social": {
+                "Facebook": "https://facebook.com",
+                "Twitter": "https://twitter.com"
+            }
+        },
+        {
+            "Nome": "Bruno",
+            "Idade": 35,
+            "Email": "bruno@email.com",
+            "Social": {
+                "Facebook": "https://facebook.com",
+                "Twitter": "https://twitter.com"
+            }
+        },
+        {
+            "Nome": "Carlos",
+            "Idade": 22,
+            "Email": "carlos@email.com",
+            "Social": {
+                "Facebook": "https://facebook.com",
+                "Twitter": "https://twitter.com"
+            }
+        }
+    ]
+}
